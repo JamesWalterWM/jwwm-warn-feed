@@ -1,0 +1,62 @@
+{
+  "generated": "2026-08-25T16:27:42.343832+00:00",
+  "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
+  "filings": [
+    {
+      "company": "SMBC MANUBANK",
+      "county": "Various",
+      "affected": "7 – PA Remote Employees",
+      "effective": "10/9/26",
+      "type": "Closure"
+    },
+    {
+      "company": "Grede, LLC",
+      "county": "Crawford",
+      "affected": "170",
+      "effective": "10/10/26",
+      "type": "Closure"
+    },
+    {
+      "company": "Essendant Management Services, LLC",
+      "county": "Chester",
+      "affected": "150",
+      "effective": "10/3/26",
+      "type": "Closure"
+    },
+    {
+      "company": "Xanitos, Inc.",
+      "county": "Philadelphia",
+      "affected": "80",
+      "effective": "10/1/26",
+      "type": "Layoff"
+    },
+    {
+      "company": "Technica, LLC",
+      "county": "Cumberland",
+      "affected": "100",
+      "effective": "9/30/26",
+      "type": "Layoff"
+    },
+    {
+      "company": "United Natural Foods, Inc. (NFI)",
+      "county": "Philadelphia",
+      "affected": "48",
+      "effective": "10/16/26",
+      "type": "Closure"
+    },
+    {
+      "company": "CJ Logistics America, LLC",
+      "county": "Lehigh",
+      "affected": "57",
+      "effective": "10/16/26 - 11/20/26",
+      "type": "Closure"
+    },
+    {
+      "company": "Transform Warehouse Operations, LLC",
+      "county": "Bucks",
+      "affected": "147",
+      "effective": "9/16/26",
+      "type": "Closing"
+    }
+  ]
+}
