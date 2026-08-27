@@ -1,7 +1,14 @@
 {
-  "generated": "2026-08-25T16:27:42.343832+00:00",
+  "generated": "2026-08-27T20:57:33.232582+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
+    {
+      "company": "Eos Energy Storage, LLC",
+      "county": "Allegheny",
+      "affected": "251",
+      "effective": "10/26/26",
+      "type": "Layoff"
+    },
     {
       "company": "SMBC MANUBANK",
       "county": "Various",
@@ -50,13 +57,6 @@
       "affected": "57",
       "effective": "10/16/26 - 11/20/26",
       "type": "Closure"
-    },
-    {
-      "company": "Transform Warehouse Operations, LLC",
-      "county": "Bucks",
-      "affected": "147",
-      "effective": "9/16/26",
-      "type": "Closing"
     }
   ]
 }
