@@ -1,7 +1,28 @@
 {
-  "generated": "2026-08-31T17:57:45.286850+00:00",
+  "generated": "2026-09-03T14:56:44.861814+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
+    {
+      "company": "Jerith Manufacturing, LLC",
+      "county": "Philadelphia",
+      "affected": "61",
+      "effective": "beginning 11/15/2026, ending 2nd quarter 2027",
+      "type": "Closure"
+    },
+    {
+      "company": "CJ Logistics America, LLC",
+      "county": "Cumberland",
+      "affected": "56",
+      "effective": "10/31/26",
+      "type": "Closure"
+    },
+    {
+      "company": "Mountain Valley Golf Course",
+      "county": "Schuylkill",
+      "affected": "111",
+      "effective": "10/31/26",
+      "type": "Closure"
+    },
     {
       "company": "Eos Energy Storage, LLC",
       "county": "Allegheny",
@@ -36,27 +57,6 @@
       "affected": "80",
       "effective": "10/1/26",
       "type": "Layoff"
-    },
-    {
-      "company": "Technica, LLC",
-      "county": "Cumberland",
-      "affected": "100",
-      "effective": "9/30/26",
-      "type": "Layoff"
-    },
-    {
-      "company": "United Natural Foods, Inc. (NFI)",
-      "county": "Philadelphia",
-      "affected": "48",
-      "effective": "10/16/26",
-      "type": "Closure"
-    },
-    {
-      "company": "CJ Logistics America, LLC",
-      "county": "Lehigh",
-      "affected": "57",
-      "effective": "10/16/26 - 11/20/26",
-      "type": "Closure"
     }
   ]
 }
