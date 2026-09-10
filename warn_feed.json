@@ -1,7 +1,14 @@
 {
-  "generated": "2026-09-07T16:22:18.029743+00:00",
+  "generated": "2026-09-10T14:56:36.666961+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
+    {
+      "company": "Kenco Logistic Services, LLC",
+      "county": "Northampton",
+      "affected": "52",
+      "effective": "beginning 11/16/2026, ending 4/1/2027",
+      "type": "Closure"
+    },
     {
       "company": "Jerith Manufacturing, LLC",
       "county": "Philadelphia",
@@ -50,13 +57,6 @@
       "affected": "150",
       "effective": "10/3/26",
       "type": "Closure"
-    },
-    {
-      "company": "Xanitos, Inc.",
-      "county": "Philadelphia",
-      "affected": "80",
-      "effective": "10/1/26",
-      "type": "Layoff"
     }
   ]
 }
