@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T16:58:14.559904+00:00",
+  "generated": "2026-09-24T15:46:51.108100+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
     {
@@ -31,6 +31,13 @@
       "type": "Closure"
     },
     {
+      "company": "Pavilion at Bradford",
+      "county": "McKean",
+      "affected": "80",
+      "effective": "12/1/26",
+      "type": "Closure"
+    },
+    {
       "company": "Eos Energy Storage, LLC",
       "county": "Allegheny",
       "affected": "251",
@@ -49,13 +56,6 @@
       "county": "Crawford",
       "affected": "170",
       "effective": "10/10/26",
-      "type": "Closure"
-    },
-    {
-      "company": "Essendant Management Services, LLC",
-      "county": "Chester",
-      "affected": "150",
-      "effective": "10/3/26",
       "type": "Closure"
     }
   ]
