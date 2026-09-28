@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T15:46:51.108100+00:00",
+  "generated": "2026-09-28T18:33:24.679258+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
     {
@@ -38,6 +38,13 @@
       "type": "Closure"
     },
     {
+      "company": "Pep Boys Manny Moe & Jack, LLC",
+      "county": "Montgomery",
+      "affected": "169",
+      "effective": "12/31/26-2/19/27",
+      "type": "Layoff"
+    },
+    {
       "company": "Eos Energy Storage, LLC",
       "county": "Allegheny",
       "affected": "251",
@@ -49,13 +56,6 @@
       "county": "Various",
       "affected": "7 – PA Remote Employees",
       "effective": "10/9/26",
-      "type": "Closure"
-    },
-    {
-      "company": "Grede, LLC",
-      "county": "Crawford",
-      "affected": "170",
-      "effective": "10/10/26",
       "type": "Closure"
     }
   ]
