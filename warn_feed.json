@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-01T17:19:48.854745+00:00",
+  "generated": "2026-10-08T17:48:28.378646+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
+    {
+      "company": "Starbucks",
+      "county": "Philadelphia",
+      "affected": "18",
+      "effective": "12/6/2026",
+      "type": "Closure"
+    },
     {
       "company": "Kenco Logistic Services, LLC",
       "county": "Northampton",
@@ -50,13 +57,6 @@
       "affected": "251",
       "effective": "10/26/26",
       "type": "Layoff"
-    },
-    {
-      "company": "SMBC MANUBANK",
-      "county": "Various",
-      "affected": "7 – PA Remote Employees",
-      "effective": "10/9/26",
-      "type": "Closure"
     }
   ]
 }
