@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T15:33:16.394038+00:00",
+  "generated": "2026-10-19T17:24:14.889740+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
     {
@@ -7,6 +7,13 @@
       "county": "Philadelphia",
       "affected": "18",
       "effective": "12/6/2026",
+      "type": "Closure"
+    },
+    {
+      "company": "Powered by FTGU, LLC",
+      "county": "Lancaster",
+      "affected": "67",
+      "effective": "12/14/2026",
       "type": "Closure"
     },
     {
@@ -49,13 +56,6 @@
       "county": "Montgomery",
       "affected": "169",
       "effective": "12/31/26-2/19/27",
-      "type": "Layoff"
-    },
-    {
-      "company": "Eos Energy Storage, LLC",
-      "county": "Allegheny",
-      "affected": "251",
-      "effective": "10/26/26",
       "type": "Layoff"
     }
   ]
