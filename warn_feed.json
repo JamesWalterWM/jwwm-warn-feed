@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T17:24:14.889740+00:00",
+  "generated": "2026-10-22T15:50:40.532740+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
     {
@@ -14,6 +14,20 @@
       "county": "Lancaster",
       "affected": "67",
       "effective": "12/14/2026",
+      "type": "Closure"
+    },
+    {
+      "company": "Republic Amusements",
+      "county": "Cumberland",
+      "affected": "48",
+      "effective": "12/20/2026",
+      "type": "Layoff"
+    },
+    {
+      "company": "Ask Foods, LLC",
+      "county": "Lebanon",
+      "affected": "96",
+      "effective": "12/1/2026",
       "type": "Closure"
     },
     {
@@ -43,20 +57,6 @@
       "affected": "111",
       "effective": "10/31/26",
       "type": "Closure"
-    },
-    {
-      "company": "Pavilion at Bradford",
-      "county": "McKean",
-      "affected": "80",
-      "effective": "12/1/26",
-      "type": "Closure"
-    },
-    {
-      "company": "Pep Boys Manny Moe & Jack, LLC",
-      "county": "Montgomery",
-      "affected": "169",
-      "effective": "12/31/26-2/19/27",
-      "type": "Layoff"
     }
   ]
 }
