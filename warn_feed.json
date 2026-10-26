@@ -1,7 +1,14 @@
 {
-  "generated": "2026-10-22T15:50:40.532740+00:00",
+  "generated": "2026-10-26T17:14:45.264631+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
+    {
+      "company": "Kenco Logistic Services, LLC",
+      "county": "Lebanon",
+      "affected": "81",
+      "effective": "beginning 3/1/2027; ending 6/15/2027",
+      "type": "Layoff"
+    },
     {
       "company": "Starbucks",
       "county": "Philadelphia",
@@ -48,13 +55,6 @@
       "company": "CJ Logistics America, LLC",
       "county": "Cumberland",
       "affected": "56",
-      "effective": "10/31/26",
-      "type": "Closure"
-    },
-    {
-      "company": "Mountain Valley Golf Course",
-      "county": "Schuylkill",
-      "affected": "111",
       "effective": "10/31/26",
       "type": "Closure"
     }
