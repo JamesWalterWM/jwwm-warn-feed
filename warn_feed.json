@@ -1,7 +1,21 @@
 {
-  "generated": "2026-10-29T17:22:33.831904+00:00",
+  "generated": "2026-11-02T20:42:23.994205+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
+    {
+      "company": "Comcast Technology Center",
+      "county": "Philadelphia",
+      "affected": "634",
+      "effective": "beginning 12/31/2026; ending 12/31/2027",
+      "type": "Layoff"
+    },
+    {
+      "company": "Family Endeavors, Inc",
+      "county": "Various",
+      "affected": "15 (PA based employees)",
+      "effective": "12/31/2026",
+      "type": "Layoff"
+    },
     {
       "company": "Kenco Logistic Services, LLC",
       "county": "Lebanon",
@@ -42,20 +56,6 @@
       "county": "Northampton",
       "affected": "52",
       "effective": "beginning 11/16/2026, ending 4/1/2027",
-      "type": "Closure"
-    },
-    {
-      "company": "Jerith Manufacturing, LLC",
-      "county": "Philadelphia",
-      "affected": "61",
-      "effective": "beginning 11/15/2026, ending 2nd quarter 2027",
-      "type": "Closure"
-    },
-    {
-      "company": "CJ Logistics America, LLC",
-      "county": "Cumberland",
-      "affected": "56",
-      "effective": "10/31/26",
       "type": "Closure"
     }
   ]
