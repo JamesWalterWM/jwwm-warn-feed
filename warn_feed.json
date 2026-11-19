@@ -1,7 +1,14 @@
 {
-  "generated": "2026-11-16T20:53:49.975813+00:00",
+  "generated": "2026-11-19T19:26:28.390778+00:00",
   "source": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/warn-requirements/warn-notices",
   "filings": [
+    {
+      "company": "J. L. Clark LLC",
+      "county": "Lancaster",
+      "affected": "34",
+      "effective": "1/18/2027",
+      "type": "Closure"
+    },
     {
       "company": "Comcast Technology Center",
       "county": "Philadelphia",
@@ -49,13 +56,6 @@
       "county": "Lebanon",
       "affected": "96",
       "effective": "12/1/2026",
-      "type": "Closure"
-    },
-    {
-      "company": "Kenco Logistic Services, LLC",
-      "county": "Northampton",
-      "affected": "52",
-      "effective": "beginning 11/16/2026, ending 4/1/2027",
       "type": "Closure"
     }
   ]
